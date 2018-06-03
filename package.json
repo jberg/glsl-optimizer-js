@@ -1,0 +1,19 @@
+{
+  "name": "glsl-optimizer-js",
+  "version": "0.0.1",
+  "description": "Port of glsl-optimizer to JavaScript using Emscripten",
+  "author": "Jordan Berg <jordannealberg@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jberg/glsl-optimizer-js.git"
+  },
+  "main": "dist/glsl-optimizer.js",
+  "unpkg": "dist/glsl-optimizer.js",
+  "files": [
+    "dist/glsl-optimizer.js"
+  ],
+  "scripts": {
+    "build": "node build.js"
+  }
+}
