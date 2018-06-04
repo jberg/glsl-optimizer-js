@@ -1,6 +1,6 @@
 {
   "name": "glsl-optimizer-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Port of glsl-optimizer to JavaScript using Emscripten",
   "author": "Jordan Berg <jordannealberg@gmail.com>",
   "license": "MIT",
